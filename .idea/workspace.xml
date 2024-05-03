@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae2e60bf-f698-40f6-8a8f-1975c384ef84" name="Changes" comment="creating repo">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BenchmarkingSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FourSort.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/writeup.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="ae2e60bf-f698-40f6-8a8f-1975c384ef84" name="Changes" comment="All except master theorem worksheet uploaded and finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +94,8 @@
       <updated>1708375519535</updated>
       <workItem from="1708375520684" duration="19620000" />
       <workItem from="1708894754628" duration="12717000" />
-      <workItem from="1709492628538" duration="7990000" />
+      <workItem from="1709492628538" duration="8611000" />
+      <workItem from="1711310958587" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="creating repo">
       <option name="closed" value="true" />
@@ -111,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708375574970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All except master theorem worksheet uploaded and finished">
+      <option name="closed" value="true" />
+      <created>1709502797406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709502797406</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creating repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating repo" />
+    <MESSAGE value="All except master theorem worksheet uploaded and finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="All except master theorem worksheet uploaded and finished" />
   </component>
 </project>
